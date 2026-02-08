@@ -6,7 +6,7 @@
         "id": "FVP1D8",
         "Flight": "B60740",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "13:00",
         "HotelName": "Royalton Antigua Resort & Spa",
         "HotelNumber": 11609
       },
@@ -14,7 +14,7 @@
         "id": "G12S16",
         "Flight": "WS2273",
         "PickupDate": "2026-02-08",
-        "PickupTime": "12:30",
+        "PickupTime": "13:20",
         "HotelName": "Royalton Antigua Resort & Spa",
         "HotelNumber": 11609
       },
@@ -30,7 +30,7 @@
         "id": "30826822",
         "Flight": "BA2156",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "14:25",
         "HotelName": "Royalton Antigua Resort & Spa",
         "HotelNumber": 11609
       },
@@ -38,7 +38,7 @@
         "id": "T177TS",
         "Flight": "BA2156",
         "PickupDate": "2026-02-09",
-        "PickupTime": "⚠️",
+        "PickupTime": "12:25",
         "HotelName": "Royalton Antigua Resort & Spa",
         "HotelNumber": 11609
       },
@@ -46,7 +46,7 @@
         "id": "26878901",
         "Flight": "BA2156",
         "PickupDate": "2026-02-09",
-        "PickupTime": "11:20",
+        "PickupTime": "14:25",
         "HotelName": "Royalton Antigua Resort & Spa",
         "HotelNumber": 11609
       }
